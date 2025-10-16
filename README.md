@@ -1,4 +1,4 @@
-- Paquetes de idioma en español [es-ES] para Helix Ultimate
+- Paquete de idioma en español [es-ES] para Helix Ultimate
 
 
 - Plugin de idioma para completar la traducción del framework
